@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<classpath>
+	<classpathentry excluding="de/uulm/in/vs/grn/ex3/sockagram/AdvancedEchoServer.java|de/uulm/in/vs/grn/sockagram/filter/examples/MultiTest.java|de/uulm/in/vs/grn/ex3/AdvancedEchoServer.java|de/uulm/in/vs/grn/ex3/RequestHandler.java|de/uulm/in/vs/grn/sockagram/filter/examples/" kind="src" path="src"/>
+	<classpathentry kind="con" path="org.eclipse.jdt.launching.JRE_CONTAINER"/>
+	<classpathentry kind="output" path="bin"/>
+</classpath>
